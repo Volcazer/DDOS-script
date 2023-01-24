@@ -1,5 +1,7 @@
 this is a NTP-AMP script for cyber security learning
+
 operating system：centOS 7
+
 prepare repositorys：Enter the command below
 
 -----------------------------------------------
