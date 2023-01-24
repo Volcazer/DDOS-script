@@ -38,9 +38,6 @@ Compilation and attack:
 
 ------------------------------------------------------------------------------
 yum install gcc libcap libpcap libpcap-devel 
-
-and
-
 gcc -lpthread ntp.c -lpcap -o ntp 
  -----------------------------------------------------------------------------------
 
